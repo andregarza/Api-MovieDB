@@ -1,1 +1,6 @@
 # Api-MovieDB
+
+Idea del proyecto:
+Quiero introducir mi proyecto explicando un poco la visión que tuve al realizarlo, yo tenia la idea de tener una base de datos de las películas que veía durante el año, donde pudiera ver datos básicos de la pelicula, ademas de eso debido actualmente los modelos de streaming se manejan con licencias, muchas peliculas no estan en ningun servicio, sin embargo existen diversos repositorios en línea que se dedican a preservar las películas, cabe mencionar que el uso y reproducción de estas películas es responsabilidad de quien accede a estos repositorios, sin embargo me pareció interesante hacer uso de APIs que fueran capaces de brindar información detallada de las películas asi como darnos id de identificación que nos permite acceder a los repositorios de películas, con esto cree una aplicación que me permite acceder a información sobre películas, me permite guardar en una base de datos las películas que ya vi con la información que yo necesite y en caso de películas que no infringen derechos de autor y distribución, acceder a estas películas mediante un link a los repositorios antes mencionados todo esto con el uso del framework Spring Boot y sus múltiples dependencias.
+
+Detalles del proyecto:
